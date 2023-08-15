@@ -1,0 +1,5 @@
+{
+  "outline.problems.colors": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false
+}
